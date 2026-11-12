@@ -195,13 +195,16 @@ L'usage de la virgule permet de regrouper deux sélecteurs pour la même règle 
 
 Ajouter à votre code des commentaires reprenant les explications données dans ce fichier.
 
-- HTML : `<!-- içi le commentaire -->`
-- CSS : `/* ici le commentaire */`
+- HTML : `<!-- içi le commentaire, dans ce TP nous avons appris a comment ouvrir et fermer un menu grâce à popover mais aussi a afficher le menu tout seul dans une seule page -->`
+- CSS : `/* ici le commentaire, dans ce TP, nous avons appris à changer la forme du curseur quand il est positionné sur le menu. Nous avons aussi vu comment créer une animation et comment l'enlever en recherchant "motion" dans l'inspecteur. Enfin, nous avons vu comment appliquer une rotation sur le burger. */`
 
 Recherchez sur le site https://developer.mozilla.org/fr/ les pages de documentation de ce qui a été utilisé dans ce TP :
 
 - `popover` : https://developer.mozilla.org/fr/docs/Web/HTML/Reference/Global_attributes/popover
-- ...
+- popovertargetaction : https://developer.mozilla.org/fr/docs/Web/HTML/Reference/Elements/button#popovertargetaction
+- overflow : https://developer.mozilla.org/fr/docs/Web/CSS/Reference/Properties/overflow
+- autofocus : https://developer.mozilla.org/fr/docs/Web/HTML/Reference/Global_attributes/autofocus
+- Cursor : https://developer.mozilla.org/fr/docs/Web/CSS/Reference/Properties/cursor
 
 # Fin
 
