@@ -205,7 +205,7 @@ Recherchez sur le site https://developer.mozilla.org/fr/ les pages de documentat
 - overflow : https://developer.mozilla.org/fr/docs/Web/CSS/Reference/Properties/overflow
 - autofocus : https://developer.mozilla.org/fr/docs/Web/HTML/Reference/Global_attributes/autofocus
 - Cursor : https://developer.mozilla.org/fr/docs/Web/CSS/Reference/Properties/cursor
-- allow discrete : ttps://developer.mozilla.org/fr/search?q=allow+discrete
+- allow discrete : https://developer.mozilla.org/fr/search?q=allow+discrete
 
 # Fin
 
