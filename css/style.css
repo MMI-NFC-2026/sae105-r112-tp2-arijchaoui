@@ -10,11 +10,11 @@ html:has(.menu:popover-open) {
   cursor: pointer;
 }
 .menu {
-
+/* fais une transition de 400ms */
   transition: 400ms allow-discrete;
   opacity: 0;
 }
-
+/* test si le popover est ouvert */
 .menu:popover-open {
   opacity: 1;
 }
